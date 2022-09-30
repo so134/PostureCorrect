@@ -2,6 +2,10 @@
 
 tf-openposeを用いて姿勢検知を行った後にslack通知をとばすアプリケーションです
 
+詳しい説明はこちらのTechBlogを参照してください
+https://cam-inc.co.jp/p/techblog/603142844403680193
+
+
 ## 動作環境
 ```
 OS: macOS Catalina
